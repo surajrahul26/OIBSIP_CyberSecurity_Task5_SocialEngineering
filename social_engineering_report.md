@@ -1,6 +1,6 @@
 
 # Social Engineering Attacks: Phishing, Pretexting & Baiting
-**Author:** Suraj Vishwakarma 
+**Author:** Suraj Vishwakarma ---
 **Date:** 10 July 2025
 
 ---
@@ -94,4 +94,3 @@ Social engineering is dangerous because it doesn’t need hacking tools — it o
 
 3. TeamPassword – "Twitter spear phishing explained"  
    https://teampassword.com/blog/what-happened-during-the-twitter-spear-phishing-attack
-"""
