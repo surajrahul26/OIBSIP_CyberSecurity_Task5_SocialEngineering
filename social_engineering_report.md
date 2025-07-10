@@ -1,7 +1,7 @@
 
 # Social Engineering Attacks: Phishing, Pretexting & Baiting
-**Author:** Suraj Vishwakarma ##
-**Date:** 10 July 2025
+**Author:**  Suraj Vishwakarma
+**Date:**  10 July 2025
 
 ---
 
